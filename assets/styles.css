@@ -1,0 +1,17 @@
+body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    color: #ddd355;
+    background-color: #000000;
+}
+
+a:link {
+    color: #ddd355;
+}
+
+a:hover {
+    color: #b8b149;
+}
+
+a:visited {
+    color: #ddd355;
+}
